@@ -3,6 +3,7 @@ Fertilizers Recommendation System For Disease Prediction
 
 **Inspiration:
 **
+
 "Agriculture is a fundamental source of National Prosperity."
 
 The agriculture is not a simple job it depend on many things and we unable to predict it.
