@@ -18,5 +18,18 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
+Project Objectives
+By the end of this project you’ll understand:
+
+Preprocess the images.
+
+Applying the CNN algorithm to the dataset.
+
+How deep neural networks detect the disease.
+
+You will be able to know how to find the accuracy of the model.
+
+You will be able to build web applications using the Flask framework.
+
 Technical Architecture 
 ![image](https://user-images.githubusercontent.com/82313982/192150017-397f944d-184e-4751-9e92-611759f37676.png)
