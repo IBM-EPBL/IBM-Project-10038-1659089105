@@ -1,7 +1,8 @@
 # IBM-Project-10038-1659089105
 Fertilizers Recommendation System For Disease Prediction
-Inspiration:
 
+**Inspiration:
+**
 "Agriculture is a fundamental source of National Prosperity."
 
 The agriculture is not a simple job it depend on many things and we unable to predict it.
@@ -19,6 +20,7 @@ Agriculture is the most important sector in today’s life. Most plants are affe
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
 **Project Objectives**
+
 By the end of this project you’ll understand:
 
 Preprocess the images.
