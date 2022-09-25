@@ -10,3 +10,13 @@ This is the timw to help them by giving our support .
 New Tech Era will help to give more solution to the problem faced by the farmer and it will help to increase the growth in the Agriculture.
 For this,
  we took this project and we will try to give our support the "Service man who serve food to save our life."
+
+
+Project Description:
+
+Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. Diseases on plants placed a major constraint on the production and a major threat to food security. Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods, and inadequate plant protection techniques. 
+
+An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
+
+Technical Architecture 
+![image](https://user-images.githubusercontent.com/82313982/192150017-397f944d-184e-4751-9e92-611759f37676.png)
