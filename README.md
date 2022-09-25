@@ -35,4 +35,5 @@ You will be able to know how to find the accuracy of the model.
 You will be able to build web applications using the Flask framework.
 
 **Technical Architecture **
+
 ![image](https://user-images.githubusercontent.com/82313982/192150017-397f944d-184e-4751-9e92-611759f37676.png)
