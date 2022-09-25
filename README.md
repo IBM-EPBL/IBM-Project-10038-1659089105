@@ -1,0 +1,12 @@
+# IBM-Project-10038-1659089105
+Fertilizers Recommendation System For Disease Prediction
+Inspiration:
+
+"Agriculture is a fundamental source of National Prosperity."
+
+The agriculture is not a simple job it depend on many things and we unable to predict it.
+The new era of the world refuse to give higher importance to the farming it lead to major issuse and then it will affect the future generation too.
+This is the timw to help them by giving our support .
+New Tech Era will help to give more solution to the problem faced by the farmer and it will help to increase the growth in the Agriculture.
+For this,
+ we took this project and we will try to give our support the "Service man who serve food to save our life."
