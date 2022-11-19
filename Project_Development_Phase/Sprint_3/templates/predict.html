@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+   <style>
+    *{
+    margin:0;padding:0;box-sizing: border-box;
+   }
+   body
+   {
+    display: flex;
+    justify-content: center;
+    min-height: 50vh;
+    background-image:url("/image/bg3.jpg");
+    background-size:cover;
+    background-size:1005;
+    background-repeat: no-repeat;
+   }
+   .container
+   {
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    position: relative;
+    left:70px;
+    top:30px;
+    
+   }
+   .leftimg{
+    position:absolute;
+    top:100px;
+    left:50px;
+    
+   }
+   .rightimg
+   {
+    position:absolute;
+    
+    left:300px;
+    top: 300px;
+  }
+  .topimg
+  {
+    position:absolute;
+  
+    left:300px;
+    top: 100px;
+  }
+  .downimg
+  {
+    position:absolute;
+    left:50px;
+    top: 300px;
+  }
+   .leftside
+   {
+    display: flex;
+    width:50%;
+   }
+    .leftside img
+   {
+    width: 250px;
+    height:200px;
+    border: 10px solid rgba(244, 245, 240, 0.298);
+   }
+   .rightside
+   {
+    width:50%;
+    position: relative;
+    top:250px;
+    right:50px;
+    display: flex;
+    
+   }
+  a
+  {
+    
+    text-decoration: none;
+    background-color: rgba(252, 249, 195, 0.733);
+    padding: 10px 15px;
+    margin-left:25px ;
+    border-radius: 5px;
+    color:rgb(28, 26, 26);
+  }
+   
+   .rightside img
+   {
+    position:absolute;
+    left:30px;
+    top:50px;
+    width: 250px;
+    height:200px;
+    border:2px solid white;
+   }
+  #outputimg{
+  visibility: hidden;
+  }
+   </style>
+</head>
+<body>
+<section class="container">
+    <section class="leftside">
+        <section class="leftimg">
+                <img src="/image/elaine-casap-qgHGDbbSNm8-unsplash.jpg" alt="not found">
+        </section>
+        <section class="rightimg">
+               <img src="/image/joshua-lanzarini-FGvQKMP-iXY-unsplash.jpg" alt="notfound">
+        </section>
+        <section class="topimg" >
+            <img src="/image/markus-spiske-6hDDnisCRMk-unsplash.jpg" alt="notfound">
+        </section>
+        <section class="downimg">
+            <img src="/image/gettyimages-884845442-612x612.jpg" alt="notfound">
+        </section>
+        </section>
+    </section>
+    <section class="rightside">
+         <div class="label">
+           <p style="color: white; padding:5px;">Upload your image.</p>
+            <input type="file" class="btn" onchange="preview_image(event)" required>
+            <img id="outputimg" alt=""  >
+         </div>
+         <div><a href="predictres.html" target="_blank"> Predict</a></div>
+         <script type="text/javascript">
+            function preview_image(event) {
+              var reader = new FileReader();
+              reader.onload = function () {
+                var output = document.getElementById('outputimg')
+                output.src = reader.result;
+              }
+              reader.readAsDataURL(event.target.files[0]);
+              var opener=document.getElementById("outputimg");
+              opener.style.visibility='visible';
+            }
+          </script>
+    </section>
+
+</section>
+</body>
+</html>
