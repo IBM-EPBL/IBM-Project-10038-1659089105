@@ -1,8 +1,8 @@
 # IBM-Project-10038-1659089105
 Fertilizers Recommendation System For Disease Prediction
 
-**Inspiration:
-**
+***Inspiration:
+***
 
 "Agriculture is a fundamental source of National Prosperity."
 
@@ -17,19 +17,19 @@ For this,
  
  ***Project Title:***
  
- "Ulavanin Tholan"
+                                                       ****"Ulavanin Tholan"****
  
  
- FRS- Fertilizer Recommendation System.
+                                                     FRS- Fertilizer Recommendation System.
 
 
-**Project Description:**
+***Project Description:***
 
 Agriculture is the most important sector in today’s life. Most plants are affected by a wide variety of bacterial and fungal diseases. Diseases on plants placed a major constraint on the production and a major threat to food security. Hence, early and accurate identification of plant diseases is essential to ensure high quantity and best quality. In recent years, the number of diseases on plants and the degree of harm caused has increased due to the variation in pathogen varieties, changes in cultivation methods, and inadequate plant protection techniques. 
 
 An automated system is introduced to identify different diseases on plants by checking the symptoms shown on the leaves of the plant. Deep learning techniques are used to identify the diseases and suggest the precautions that can be taken for those diseases. 
 
-**Project Objectives**
+***Project Objectives***
 
 By the end of this project you’ll understand:
 
@@ -43,7 +43,7 @@ You will be able to know how to find the accuracy of the model.
 
 You will be able to build web applications using the Flask framework.
 
-**Project Flow**
+***Project Flow***
 
 A web Application is built  where 
 Farmers can interact with the portal build
@@ -66,17 +66,28 @@ Save the model and its dependencies.
 Build a Web application using a flask that integrates with the model built.
 
 
-** Project Status : **
+*** Project Status : ***
 --->The project status is almost completed our team did a web based application to predict the diseases and recommend the fertilizer to overcome from it to the users(Farmers).
+
+
+
 --->So, we uploaded the required files and samples our model in this github .
+
+
+
 --->We also done a successful demo video and uploaded it on the social media platform (Youtube).
+
+
+
 --->Hope it will work out and our model going to be a useful one.
 
 
 ***The Team Behind This Project is:***
-Logeshwaran G
-Santhosh M
-Satheesh Natrayan A
+
+
+Logeshwaran G|
+Santhosh M|
+Satheesh Natrayan A|
 Shaheen M 
 
 
