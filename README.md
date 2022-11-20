@@ -12,6 +12,15 @@ This is the timw to help them by giving our support .
 New Tech Era will help to give more solution to the problem faced by the farmer and it will help to increase the growth in the Agriculture.
 For this,
  we took this project and we will try to give our support the "Service man who serve food to save our life."
+ 
+ 
+ 
+ ***Project Title:***
+ 
+ "Ulavanin Tholan"
+ 
+ 
+ FRS- Fertilizer Recommendation System.
 
 
 **Project Description:**
@@ -55,6 +64,23 @@ Test the model.
 Save the model and its dependencies.
 
 Build a Web application using a flask that integrates with the model built.
+
+
+** Project Status : **
+--->The project status is almost completed our team did a web based application to predict the diseases and recommend the fertilizer to overcome from it to the users(Farmers).
+--->So, we uploaded the required files and samples our model in this github .
+--->We also done a successful demo video and uploaded it on the social media platform (Youtube).
+--->Hope it will work out and our model going to be a useful one.
+
+
+***The Team Behind This Project is:***
+Logeshwaran G
+Santhosh M
+Satheesh Natrayan A
+Shaheen M 
+
+
+
 
 **Technical Architecture **
 
